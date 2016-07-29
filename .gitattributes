@@ -1,1 +1,2 @@
+less/variables.less merge=keepTheir
 js/angular.min.js merge=ours
